@@ -1,0 +1,13 @@
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.csprojAssemblyReference.cache
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.AssemblyInfo.cs
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\7k\bin\Debug\netcoreapp3.1\7k.exe
+C:\Users\Micro\Desktop\7k\bin\Debug\netcoreapp3.1\7k.deps.json
+C:\Users\Micro\Desktop\7k\bin\Debug\netcoreapp3.1\7k.runtimeconfig.json
+C:\Users\Micro\Desktop\7k\bin\Debug\netcoreapp3.1\7k.runtimeconfig.dev.json
+C:\Users\Micro\Desktop\7k\bin\Debug\netcoreapp3.1\7k.dll
+C:\Users\Micro\Desktop\7k\bin\Debug\netcoreapp3.1\7k.pdb
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.dll
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.pdb
+C:\Users\Micro\Desktop\7k\obj\Debug\netcoreapp3.1\7k.genruntimeconfig.cache
